@@ -13,8 +13,8 @@
     }
 
     // Example usage
-    $num1 = 6;
-    $num2 = 9;
+    $num1 = 2;
+    $num2 = 5;
     $result = multiply($num1, $num2);
 
     echo "$num1 × $num2 = $result";

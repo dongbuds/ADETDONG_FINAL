@@ -6,8 +6,8 @@
 </head>
 <body>
     <?php
-    $name = "Dong";
-    $age = 22;
+    $name = "Nash";
+    $age = 69;
     echo "Name: $name<br>";
     echo "Age: $age";
     ?>

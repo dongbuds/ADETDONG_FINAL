@@ -8,7 +8,7 @@
     <h2>List of Colors</h2>
 
     <?php
-    $colors = ["Black", "Pink", "Blue", "Gray", "Red"];
+    $colors = ["Yellow", "White", "Black", "Gray", "Brown"];
 
     foreach ($colors as $color) {
         echo $color . "<br>";
